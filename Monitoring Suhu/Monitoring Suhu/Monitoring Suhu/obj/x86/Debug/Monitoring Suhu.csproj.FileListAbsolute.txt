@@ -1,0 +1,13 @@
+C:\Users\Pasuruan\AppData\Local\Temporary Projects\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.csprojResolveAssemblyReference.cache
+C:\Users\Pasuruan\AppData\Local\Temporary Projects\Monitoring Suhu\obj\x86\Debug\Monitoring_Suhu.Form1.resources
+C:\Users\Pasuruan\AppData\Local\Temporary Projects\Monitoring Suhu\obj\x86\Debug\Monitoring_Suhu.Properties.Resources.resources
+C:\Users\Pasuruan\AppData\Local\Temporary Projects\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.csproj.GenerateResource.Cache
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.csprojResolveAssemblyReference.cache
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring_Suhu.Form1.resources
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring_Suhu.Properties.Resources.resources
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.csproj.GenerateResource.Cache
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\bin\Debug\Monitoring Suhu.exe
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\bin\Debug\Monitoring Suhu.pdb
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\bin\Debug\ZedGraph.dll
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.exe
+D:\Coba\Monitoring Suhu\Monitoring Suhu\Monitoring Suhu\obj\x86\Debug\Monitoring Suhu.pdb
